@@ -5,7 +5,9 @@ import { setupCounter } from './counter.ts'
 import './temasTs/01-tipo-bas.ts'
 import './temasTs/02-obj-interfaz-arre.ts'
 import './temasTs/03-funciones.ts'
-
+import './temasTs/04-desestructuracion-obj-arre.ts'
+import './temasTs/05-desestructuracion-funciones.ts'
+import './temasTs/06-importar-exportar.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
